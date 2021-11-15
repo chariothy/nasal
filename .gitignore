@@ -1,0 +1,5 @@
+.history
+__pycache__
+
+*.csv
+!nasal_example.csv
